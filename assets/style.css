@@ -1,0 +1,22 @@
+*{
+    background-color: antiquewhite;
+
+}
+
+main{
+    display: inline;
+}
+
+main + section{
+    height:400px;
+    width:400px;
+
+    border:solid black 5px;
+}
+
+
+
+title.{
+
+
+}
